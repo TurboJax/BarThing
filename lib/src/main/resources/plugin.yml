@@ -1,0 +1,6 @@
+name: BarPlugin
+version: 1.0.0
+main: org.turbojax.bars.BarsPlugin
+description: A plugin with bars
+author: Turbojax
+api-version: '1.21.11'
